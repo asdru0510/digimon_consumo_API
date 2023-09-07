@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+main{
+    background-image: url("../img/fondo1.jpg");
+    height: 90vh;
+    background-size: contain;
+}
+#contenedorCarta{
+    display: flex;
+    justify-content: center;
+}
+#cartaDigimon{
+    border-width: thick;
+    text-align: center;
+}
+
