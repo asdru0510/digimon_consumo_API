@@ -18,10 +18,10 @@ Para ejecutar esta aplicación, necesitarás tener instalado lo siguiente:
 - Navegador web
 
 ## Tecnologías utilizadas
--HTML
--CSS
--Bootstrap
--Javascript
+- HTML
+- CSS
+- Bootstrap
+- Javascript
 
 ## Instalación
 
