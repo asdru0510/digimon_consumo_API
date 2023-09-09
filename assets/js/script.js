@@ -12,6 +12,8 @@ fetch("https://digimon-api.vercel.app/api/digimon")
     data.forEach((digimon) => {
       //agregamos una constante que crea un elemento de lista (li) por cada digimon
       const digimonItem = document.createElement("li");
+      //Agregamos la clase de bootstrap al elemento li
+      digimonItem.classList.add("dropdown-item")
       //Le agregamos el nombre del digimon a la li
       digimonItem.textContent = digimon.name;
       // Insertamos el digimon en la lista en el html
