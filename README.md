@@ -1,6 +1,6 @@
 # App de Digimon
 
-Esta es una aplicación web dinámica que consume la API gratuita de Digimon. La aplicación muestra el nombre, la imagen y el nivel de cada Digimon, así como un listado de todos los Digimon disponibles. Los usuarios pueden hacer clic en un Digimon específico en la lista para ver más detalles.
+Esta es una aplicación web dinámica y responsiva que consume la API gratuita de Digimon. La aplicación muestra el nombre, la imagen y el nivel de cada Digimon, así como un listado de todos los Digimon disponibles. Los usuarios pueden hacer clic en un Digimon específico en la lista para ver más detalles.
 
 ## Tabla de contenido
 
